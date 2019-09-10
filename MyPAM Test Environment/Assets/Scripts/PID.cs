@@ -14,7 +14,7 @@ public class PID : MonoBehaviour
     public Text Ki;
     public Text Kd;
 
-    static bool MyPAMMode = true;
+    static bool MyPAMMode = false;
     void Start()
     {
         
